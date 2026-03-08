@@ -1,50 +1,21 @@
-# Welcome to your Expo app 👋
+🌦️ Weather App (TypeScript)
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A modern Weather Application built with TypeScript that allows users to check real-time weather conditions for any city in the world. The application fetches weather data from a weather API and displays information such as temperature, humidity, wind speed, and weather conditions in a clean and user-friendly interface.
 
-## Get started
+🚀 Features
 
-1. Install dependencies
+🌍 Search weather by city name
 
-   ```bash
-   npm install
-   ```
+🌡️ Real-time temperature display
 
-2. Start the app
+☁️ Weather condition descriptions (clear, cloudy, rain, etc.)
 
-   ```bash
-   npx expo start
-   ```
+💧 Humidity information
 
-In the output, you'll find options to open the app in a
+💨 Wind speed data
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+📱 Responsive design for desktop and mobile devices
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+⚡ Fast and reliable API data fetching
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+🔒 Strong typing using TypeScript
